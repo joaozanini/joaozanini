@@ -16,3 +16,5 @@ Olá, meu nomé é João, e sou apaixonado pela arte da programação!
   <a href = "https://twitter.com/Ajoo_Dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaozanini.profissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/joaozanini/joaozanini/blob/output/github-contribution-grid-snake.svg)
