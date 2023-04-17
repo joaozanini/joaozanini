@@ -17,4 +17,3 @@ Olá, meu nomé é João, e sou apaixonado pela arte da programação!
   <a href = "mailto:joaozanini.profissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/joaozanini/joaozanini/blob/output/github-contribution-grid-snake.svg)
