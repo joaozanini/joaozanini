@@ -1,4 +1,4 @@
-Olá, meu nomé é João e sou apaixonado pela arte da programação!
+👋 Olá, meu nomé é João e sou apaixonado pela arte da programação!
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&count_private=true&show_icons=true&theme=dracula&hide_border=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&layout=compact&theme=dracula&hide_border=true&langs_count=6)
