@@ -1,8 +1,12 @@
-👋 Olá, meu nomé é João e sou apaixonado pela arte da programação!
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Olá, meu nomé é João e sou apaixonado pela arte da programação!<img src="https://media.tenor.com/AM7jgJNYX88AAAAj/da-bao-and-xiao-flower-bear.gif" width="100">
+</h1>
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&count_private=true&show_icons=true&theme=dracula&hide_border=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&layout=compact&theme=dracula&hide_border=true&langs_count=6)
-
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=joaozanini&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&layout=compact&theme=dracula&hide_border=true&lang_count=6" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
