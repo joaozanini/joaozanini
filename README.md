@@ -10,7 +10,7 @@ Olá, meu nomé é João e sou apaixonado pela arte da programação!<img src="h
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </h1>
 
-<div>
+<div align="center">
  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=joaozanini&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
  <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&layout=compact&theme=dracula&hide_border=true&lang_count=6" />
 </div>
