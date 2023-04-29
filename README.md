@@ -12,5 +12,5 @@ Olá, meu nome é João! Sou desenvolvedor Web apaixonado pela arte da programa�
 
 <div align="center">
  <img height='150px' src="https://github-readme-stats.vercel.app/api?username=joaozanini&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
- <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&layout=compact&theme=dracula&hide_border=true&lang_count=6&count_private=true" />
+ <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&layout=compact&theme=dracula&hide_border=true&lang_count=6" />
 </div>
