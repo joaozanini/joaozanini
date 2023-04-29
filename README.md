@@ -1,7 +1,8 @@
 Olá, meu nomé é João e sou apaixonado pela arte da programação!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&size_weight=0.5&count_weight=0.5&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
