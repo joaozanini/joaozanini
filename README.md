@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide_progress=true&langs_count=6)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img align="center" alt="html" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
