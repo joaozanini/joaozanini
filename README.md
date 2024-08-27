@@ -1,7 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide_progress=true&langs_count=6)
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide=stars,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide_progress=true&langs_count=6" />
+</div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
   <img align="center" alt="html" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
