@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide_progress=true)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -13,6 +13,8 @@
   <img align="center" alt="express" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
   <img align="center" alt="php" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="laravel" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="mysql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div>
