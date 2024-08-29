@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&hide=stars"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&show_icons=true&theme=blue_navy&hide_border=true&langs_count=6&layout=compact"/>
 </div>
 <br>
