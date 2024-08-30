@@ -15,11 +15,11 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/studying.gif">
+<img align="right" alt="gifzinho" height="190px" src="./src/studying.gif">
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Carrd.co-000?style=for-the-badge&logo=carrd&logoColor=38bdf8&color:FFF)](https://joaozanini.carrd.co/)
+[![Carrd.co](https://img.shields.io/badge/-Carrd.co-000?style=for-the-badge&logo=carrd&logoColor=38bdf8&color:FFF)](https://joaozanini.carrd.co/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=38bdf8&color:FFF)](https://www.linkedin.com/in/joao-zanini/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=38bdf8&color:FFF)](https://www.instagram.com/joao.zaninii/)
 
