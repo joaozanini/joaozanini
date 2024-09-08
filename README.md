@@ -56,3 +56,6 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaozanini&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=38bdf8&hide=html,css&bg_color=000&text_color=8B8B8B&hide_border=true&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
+#
+<p align="center">Apaguei meus repositórios perdi todas as minhas contributions no perfil 😿</p>
