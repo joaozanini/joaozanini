@@ -13,7 +13,7 @@
 #
 
 <br>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Atualmente estudando Java e desenvolvimento de software. Apaixonado por tecnologia e jogos, sempre buscando melhorar minhas habilidades como desenvolvedor!</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Atualmente estudando Java e desenvolvimento de software. Apaixonado por tecnologia, sempre buscando melhorar minhas habilidades como desenvolvedor!</p>
 
 #
 
