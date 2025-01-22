@@ -56,4 +56,3 @@
 </div>
 
 #
-<p align="center">Apaguei uns repositórios perdi todas as minhas contributions no perfil 😿</p>
