@@ -55,5 +55,6 @@
 </div>
 
 #
-
-<p> Java e C meus amores <3 </p>
+<div style="text-align: center;" align="center">
+  <p > Java e C meus amores <3 </p>
+</div>
