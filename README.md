@@ -19,7 +19,7 @@
 
 <img align="right" alt="gifzinho" height="190px" src="./src/studying.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect with me ~</h3>
 
 [![Carrd.co](https://img.shields.io/badge/-Carrd.co-000?style=for-the-badge&logo=carrd&logoColor=886CE4&color:FFF)](https://joaozanini.carrd.co/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=886CE4&color:FFF)](https://www.linkedin.com/in/joao-zanini/)
