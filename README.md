@@ -42,8 +42,6 @@
   <img height="28" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 </div>
 
-
-
 <div align="left">
   <img height="28" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img height="28" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
@@ -61,9 +59,8 @@
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaozanini&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=886CE4&text_color=FFF&hide_border=true&icon_color=886CE4&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/joaozanini/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaozanini&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=false&langs_count=4&show_icons=true&title_color=886CE4&hide=html,css,pascal&bg_color=000&text_color=8B8B8B&hide_border=true&count_private=true" alt="Most Used Languages">
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaozanini&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=false&langs_count=4&show_icons=true&title_color=886CE4&hide=html,css,pascal&bg_color=000&text_color=8B8B8B&hide_border=true&count_private=true" alt="Most Used Languages">
+
 </div>
 
 #
