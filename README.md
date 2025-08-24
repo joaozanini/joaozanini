@@ -62,8 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanini&line_height=10&card_width=290&layout=compact&hide_title=false&langs_count=4&show_icons=true&title_color=886CE4&hide=html,css,pascal&bg_color=000000&text_color=8B8B8B&hide_border=true" alt="Most Used Languages">
 </div>
 
-
-#
-<div style="text-align: center;" align="center">
-  <p > Java <3 </p>
-</div>
