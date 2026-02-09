@@ -24,6 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=886CE4&color:FFF)](https://www.linkedin.com/in/joao-zanini/)
 [![Guns.lol](https://img.shields.io/badge/-Guns.lol-000?style=for-the-badge&logo=guns&logoColor=886CE4&color:FFF)](https://guns.lol/joaozanini)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=886CE4&color:FFF)](https://www.instagram.com/joao.zaninii/)
+[![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&logo=Steam&logoColor=886CE4&color:FFF)](https://steamcommunity.com/id/JoaoZanini/)
 
 <h3 align="left">My Stack ~</h3>
 
